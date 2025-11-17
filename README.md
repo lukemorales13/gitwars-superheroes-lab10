@@ -314,6 +314,9 @@ Beneficios:
 - 📦 Entorno aislado y consistente
 - 🔁 Integración con `Makefile` para automatizar comandos
 
+🎥 **Video relacionado:**  
+**Como usar contenedores** → [Ver video](<https://drive.google.com/file/d/1k-yRhMLN6v3P7x92JfzVVZcme-lL1Yiv/view?usp=sharing>)
+
 ---
 
 ## ⚙️ Instalación
@@ -435,6 +438,8 @@ https://<subdominio-del-equipo>.onrender.com/info
    → [Ver video](<https://drive.google.com/file/d/1u-bP_8H9B_1PYbTwBD9B2PvPuf-myAd0/view?usp=sharing>)
 4. **Optimizacion Bayesiana**  
    → [Ver video](<https://drive.google.com/file/d/1qTafvc1ZlTAVJ0GuLYlabed8Gg2zUfmU/view?usp=sharing>)
+5. **Como usar los contenedores**  
+   → [Ver video](<https://drive.google.com/file/d/1k-yRhMLN6v3P7x92JfzVVZcme-lL1Yiv/view?usp=sharing>)
 
 
 ---
